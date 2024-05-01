@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Student Attendance Report</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        font-family: "Overpass", sans-serif; /* Fix typo in font family name */
+      }
+      table {
+        border-collapse: collapse;
+        width: 100%;
+      }
+
+      th,
+      td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+      }
+
+      th {
+        background-color: #f2f2f2;
+        text-transform: uppercase;
+      }
+
+      /* Apply alternating background colors */
+      tr:nth-child(2n) {
+        background-color: #f9f9f9;
+      }
+      td {
+        text-transform: capitalize;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="tableContainer"></div>
+
+    <script>
+      // Fetch the JSON file
+      fetch("./current_attendance.json")
+        .then((response) => response.json())
+        .then((data) => {
+          // Sort data based on presentDays (larger to smaller)
+          data.sort((a, b) => parseInt(b.presentDays) - parseInt(a.presentDays));
+
+          // Generate the table after fetching and sorting the data
+          generateTable(data);
+        })
+        .catch((error) => console.error("Error fetching data:", error));
+
+      function generateTable(data) {
+        const tableContainer = document.getElementById("tableContainer");
+        const table = document.createElement("table");
+
+        // Create table header
+        const headerRow = document.createElement("tr");
+        for (const key in data[0]) {
+          const th = document.createElement("th");
+          th.textContent = key;
+          headerRow.appendChild(th);
+        }
+        table.appendChild(headerRow);
+
+        // Create table rows
+        data.forEach((item) => {
+          const row = document.createElement("tr");
+          for (const key in item) {
+            const td = document.createElement("td");
+            td.textContent = item[key];
+            row.appendChild(td);
+          }
+          table.appendChild(row);
+        });
+
+        tableContainer.appendChild(table);
+      }
+    </script>
+  </body>
+</html>
