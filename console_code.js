@@ -1,6 +1,6 @@
 // const lokeshwar = document.getElementById("studlist_tbody");
 // // Initialize totalDays as an empty array
-let totalDays = 74;
+let totalDays = 77;
 
 // // Get all <tr> elements inside the div
 // const rows = lokeshwar.getElementsByTagName("tr");

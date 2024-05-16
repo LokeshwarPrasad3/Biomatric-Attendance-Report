@@ -1,240 +1,240 @@
 [
   {
-    "nameStudent": "Asha paikra ",
-    "essl_id": "11305",
-    "totalDays": 74,
-    "presentDays": 31,
-    "percent": "41%"
-  },
-  {
     "nameStudent": " Lokeshwar",
     "essl_id": "11309",
-    "totalDays": 74,
+    "totalDays": 77,
     "presentDays": 43,
-    "percent": "58%"
-  },
-  {
-    "nameStudent": "GAYATRI KUMARI",
-    "essl_id": "11422",
-    "totalDays": 74,
-    "presentDays": 30,
-    "percent": "40%"
+    "percent": "57%"
   },
   {
     "nameStudent": "SAURABH RAJWADE ",
     "essl_id": "11420",
-    "totalDays": 74,
-    "presentDays": 23,
+    "totalDays": 77,
+    "presentDays": 24,
     "percent": "31%"
+  },
+  {
+    "nameStudent": "GAYATRI KUMARI",
+    "essl_id": "11422",
+    "totalDays": 77,
+    "presentDays": 30,
+    "percent": "38%"
+  },
+  {
+    "nameStudent": "Asha paikra ",
+    "essl_id": "11305",
+    "totalDays": 77,
+    "presentDays": 32,
+    "percent": "41%"
   },
   {
     "nameStudent": "KODARA MURLI KRISHNA",
     "essl_id": "11424",
-    "totalDays": 74,
+    "totalDays": 77,
     "presentDays": 19,
-    "percent": "25%"
-  },
-  {
-    "nameStudent": "Nikita kuldeep ",
-    "essl_id": "11428",
-    "totalDays": 74,
-    "presentDays": 37,
-    "percent": "50%"
-  },
-  {
-    "nameStudent": "Krishna Deep ",
-    "essl_id": "11430",
-    "totalDays": 74,
-    "presentDays": 6,
-    "percent": "8%"
+    "percent": "24%"
   },
   {
     "nameStudent": "KHILENDRA DEWANGAN",
     "essl_id": "11423",
-    "totalDays": 74,
-    "presentDays": 44,
-    "percent": "59%"
+    "totalDays": 77,
+    "presentDays": 45,
+    "percent": "58%"
+  },
+  {
+    "nameStudent": "Nikita kuldeep ",
+    "essl_id": "11428",
+    "totalDays": 77,
+    "presentDays": 37,
+    "percent": "48%"
+  },
+  {
+    "nameStudent": "Krishna Deep ",
+    "essl_id": "11430",
+    "totalDays": 77,
+    "presentDays": 6,
+    "percent": "7%"
   },
   {
     "nameStudent": "HARISHANKAR",
     "essl_id": "11425",
-    "totalDays": 74,
-    "presentDays": 51,
-    "percent": "68%"
+    "totalDays": 77,
+    "presentDays": 54,
+    "percent": "70%"
   },
   {
-    "nameStudent": "Kunal chandelkar ",
-    "essl_id": "11433",
-    "totalDays": 74,
-    "presentDays": 38,
-    "percent": "51%"
-  },
-  {
-    "nameStudent": "GAURAV OJHA ",
-    "essl_id": "11435",
-    "totalDays": 74,
-    "presentDays": 1,
-    "percent": "1%"
+    "nameStudent": "ARVIND KUMAR DEWANGAN",
+    "essl_id": "11427",
+    "totalDays": 77,
+    "presentDays": 59,
+    "percent": "76%"
   },
   {
     "nameStudent": "VANITA ",
     "essl_id": "11434",
-    "totalDays": 74,
-    "presentDays": 36,
-    "percent": "48%"
+    "totalDays": 77,
+    "presentDays": 39,
+    "percent": "50%"
   },
   {
-    "nameStudent": "VANSHIKA SONI",
-    "essl_id": "11438",
-    "totalDays": 74,
-    "presentDays": 7,
-    "percent": "9%"
+    "nameStudent": "GAURAV OJHA ",
+    "essl_id": "11435",
+    "totalDays": 77,
+    "presentDays": 1,
+    "percent": "1%"
   },
   {
-    "nameStudent": "RAHUL CHANDRAVANSHI",
-    "essl_id": "11442",
-    "totalDays": 74,
-    "presentDays": 2,
-    "percent": "2%"
-  },
-  {
-    "nameStudent": "VEDPRAKASH NETAM  ",
-    "essl_id": "11437",
-    "totalDays": 74,
-    "presentDays": 45,
-    "percent": "60%"
+    "nameStudent": "Kunal chandelkar ",
+    "essl_id": "11433",
+    "totalDays": 77,
+    "presentDays": 41,
+    "percent": "53%"
   },
   {
     "nameStudent": "VIVEK SAHU",
     "essl_id": "11436",
-    "totalDays": 74,
+    "totalDays": 77,
     "presentDays": 45,
-    "percent": "60%"
+    "percent": "58%"
+  },
+  {
+    "nameStudent": "VANSHIKA SONI",
+    "essl_id": "11438",
+    "totalDays": 77,
+    "presentDays": 7,
+    "percent": "9%"
+  },
+  {
+    "nameStudent": "VEDPRAKASH NETAM  ",
+    "essl_id": "11437",
+    "totalDays": 77,
+    "presentDays": 47,
+    "percent": "61%"
+  },
+  {
+    "nameStudent": "RAHUL CHANDRAVANSHI",
+    "essl_id": "11442",
+    "totalDays": 77,
+    "presentDays": 2,
+    "percent": "2%"
   },
   {
     "nameStudent": "SHIVAM SINGH",
     "essl_id": "11443",
-    "totalDays": 74,
-    "presentDays": 32,
-    "percent": "43%"
+    "totalDays": 77,
+    "presentDays": 34,
+    "percent": "44%"
   },
   {
     "nameStudent": "Gaurav mishra ",
     "essl_id": "11444",
-    "totalDays": 74,
-    "presentDays": 38,
+    "totalDays": 77,
+    "presentDays": 40,
     "percent": "51%"
   },
   {
     "nameStudent": "KARAN RAJWADE ",
     "essl_id": "11446",
-    "totalDays": 74,
+    "totalDays": 77,
     "presentDays": 16,
-    "percent": "21%"
+    "percent": "20%"
   },
   {
     "nameStudent": "Takeshwar Janghel ",
     "essl_id": "11445",
-    "totalDays": 74,
+    "totalDays": 77,
     "presentDays": 44,
-    "percent": "59%"
+    "percent": "57%"
   },
   {
     "nameStudent": "KUNDAN SINGH YADAV",
     "essl_id": "11450",
-    "totalDays": 74,
+    "totalDays": 77,
     "presentDays": 1,
     "percent": "1%"
   },
   {
-    "nameStudent": "Tushar Kumar ",
-    "essl_id": "11451",
-    "totalDays": 74,
-    "presentDays": 4,
-    "percent": "5%"
-  },
-  {
     "nameStudent": "ROUNAK KUMAR TILANTE",
     "essl_id": "11449",
-    "totalDays": 74,
-    "presentDays": 35,
-    "percent": "47%"
-  },
-  {
-    "nameStudent": "NAFEESHA BANO  ",
-    "essl_id": "11455",
-    "totalDays": 74,
-    "presentDays": 6,
-    "percent": "8%"
-  },
-  {
-    "nameStudent": "SHUBHANSHI SAW",
-    "essl_id": "11454",
-    "totalDays": 74,
-    "presentDays": 36,
-    "percent": "48%"
-  },
-  {
-    "nameStudent": "Aryan Mishra ",
-    "essl_id": "11452",
-    "totalDays": 74,
-    "presentDays": 35,
-    "percent": "47%"
-  },
-  {
-    "nameStudent": "AYUSHI ASHATKAR",
-    "essl_id": "11461",
-    "totalDays": 74,
-    "presentDays": 9,
-    "percent": "12%"
-  },
-  {
-    "nameStudent": "RAJESH KUMAR SINGH",
-    "essl_id": "11458",
-    "totalDays": 74,
-    "presentDays": 44,
-    "percent": "59%"
-  },
-  {
-    "nameStudent": "VIKAS KUMAR PATEL",
-    "essl_id": "11493",
-    "totalDays": 74,
-    "presentDays": 0,
-    "percent": "0%"
-  },
-  {
-    "nameStudent": "Md Kaif",
-    "essl_id": "11457",
-    "totalDays": 74,
-    "presentDays": 52,
-    "percent": "70%"
-  },
-  {
-    "nameStudent": "Yamini Sinha ",
-    "essl_id": "11463",
-    "totalDays": 74,
+    "totalDays": 77,
     "presentDays": 38,
-    "percent": "51%"
-  },
-  {
-    "nameStudent": "ARVIND KUMAR DEWANGAN",
-    "essl_id": "11427",
-    "totalDays": 74,
-    "presentDays": 57,
-    "percent": "77%"
+    "percent": "49%"
   },
   {
     "nameStudent": "PRAKASH TANDI",
     "essl_id": "11447",
-    "totalDays": 74,
-    "presentDays": 51,
-    "percent": "68%"
+    "totalDays": 77,
+    "presentDays": 54,
+    "percent": "70%"
+  },
+  {
+    "nameStudent": "Aryan Mishra ",
+    "essl_id": "11452",
+    "totalDays": 77,
+    "presentDays": 38,
+    "percent": "49%"
+  },
+  {
+    "nameStudent": "NAFEESHA BANO  ",
+    "essl_id": "11455",
+    "totalDays": 77,
+    "presentDays": 7,
+    "percent": "9%"
+  },
+  {
+    "nameStudent": "SHUBHANSHI SAW",
+    "essl_id": "11454",
+    "totalDays": 77,
+    "presentDays": 37,
+    "percent": "48%"
+  },
+  {
+    "nameStudent": "Md Kaif",
+    "essl_id": "11457",
+    "totalDays": 77,
+    "presentDays": 55,
+    "percent": "71%"
+  },
+  {
+    "nameStudent": "AYUSHI ASHATKAR",
+    "essl_id": "11461",
+    "totalDays": 77,
+    "presentDays": 9,
+    "percent": "11%"
   },
   {
     "nameStudent": "HARSH KUMAR KEWAT",
     "essl_id": "11459",
-    "totalDays": 74,
-    "presentDays": 42,
-    "percent": "56%"
+    "totalDays": 77,
+    "presentDays": 45,
+    "percent": "58%"
+  },
+  {
+    "nameStudent": "VIKAS KUMAR PATEL",
+    "essl_id": "11493",
+    "totalDays": 77,
+    "presentDays": 0,
+    "percent": "0%"
+  },
+  {
+    "nameStudent": "Tushar Kumar ",
+    "essl_id": "11451",
+    "totalDays": 77,
+    "presentDays": 4,
+    "percent": "5%"
+  },
+  {
+    "nameStudent": "Yamini Sinha ",
+    "essl_id": "11463",
+    "totalDays": 77,
+    "presentDays": 38,
+    "percent": "49%"
+  },
+  {
+    "nameStudent": "RAJESH KUMAR SINGH",
+    "essl_id": "11458",
+    "totalDays": 77,
+    "presentDays": 47,
+    "percent": "61%"
   }
 ]
