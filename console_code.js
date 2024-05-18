@@ -1,6 +1,6 @@
 // const lokeshwar = document.getElementById("studlist_tbody");
 // // Initialize totalDays as an empty array
-let totalDays = 77;
+let totalDays = 79;
 
 // // Get all <tr> elements inside the div
 // const rows = lokeshwar.getElementsByTagName("tr");
@@ -28,6 +28,11 @@ const dataArray = [
         "essl_id": "11305",
         "stud_name": "Asha paikra ",
         "stud_mobile": "7746840034"
+    },
+    {
+        "essl_id": "2120",
+        "stud_name": "DUSHYANT DAS MANIKPURI",
+        "stud_mobile": "9302686679"
     },
     {
         "essl_id": "11309",
