@@ -186,11 +186,6 @@ const dataArray = [
         "stud_name": "Yamini Sinha ",
         "stud_mobile": "8305196900"
     },
-    {
-        "essl_id": "11493",
-        "stud_name": "VIKAS KUMAR PATEL",
-        "stud_mobile": "7223926899"
-    }
 ];
 
 // Define the URL for fetching data
