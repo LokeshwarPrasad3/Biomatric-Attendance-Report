@@ -44,7 +44,7 @@
   </head>
   <body>
     <br />
-    <h4 style="width: 100%"><center>till 20-05-24</center></h4>
+    <h4 style="width: 100%"><center class="today_date"></center></h4>
     <br />
     <div id="tableContainer"></div>
 
@@ -89,6 +89,13 @@
 
         tableContainer.appendChild(table);
       }
+
+      // add today date
+      const today_date = document.querySelector(".today_date");
+      const todayDateArr = new Date().toLocaleDateString().split("/");
+      const todayDate = `${todayDateArr[1]}-${todayDateArr[0]}-${todayDateArr[2]}`;
+
+      today_date.innerHTML = `Till ${todayDate}`;
     </script>
   </body>
 </html>
