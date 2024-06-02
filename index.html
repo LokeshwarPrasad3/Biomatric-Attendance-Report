@@ -92,8 +92,7 @@
 
       // add today date
       const today_date = document.querySelector(".today_date");
-      const todayDateArr = new Date().toLocaleDateString().split("/");
-      const todayDate = `${todayDateArr[1]}-${todayDateArr[0]}-${todayDateArr[2]}`;
+      const todayDate = new Date().toDateString();
 
       today_date.innerHTML = `Till ${todayDate}`;
     </script>
